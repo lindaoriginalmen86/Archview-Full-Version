@@ -228,4 +228,4 @@ This repository serves as the official landing page for ArchView. The software i
 **Get the most recent version of ArchView today!**
 
 ---
-**Last updated:** 2026-09-19 09:16:18 UTC
+**Last updated:** 2026-09-19 13:46:14 UTC
